@@ -1,0 +1,18 @@
+Time Complexity
+
+-> it is the amount of time taken by an algorithm to run
+-> as a function of length of the input
+
+why ?
+-> for making better programs
+-> comparision opf algo.
+
+Big O notation -> upper bound
+Theta notation -> for avg case complexity
+omega notation -> lower bound
+
+constant time -> O(1)
+Linear time > O(n)
+Logarithmic time -> O(log n)
+Quadratic time -> O(n^2)
+Cubic time -> O(n^3)
